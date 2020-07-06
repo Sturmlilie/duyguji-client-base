@@ -21,8 +21,8 @@
 ☤/caduceus
 ❤/heart-black-heavy
 ❥/heart-black-heavy-rotated
-❣/heart-exclamation
-‼/double-exclamation
+❣/exclamation-heart
+‼/exclamation-double
 ‽/interrobang
 ❦/floral-heart
 ❧/floral-heart-bullet
@@ -91,13 +91,13 @@
 ⌚/watch
 ☄/comet
 ✏/pencil
-✎/lower-right-pencil
+✎/pencil-lower-right
 ⛏/pickaxe
 ⚒/hammer-and-pickaxe
 ⚔/crossed-swords
 ©/copyright
-®/registered-trademark
-™/tm
+®/trademark-registered
+™/trademark
 ⧈/squared-square
 •/bullet
 °/degree
