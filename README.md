@@ -1,3 +1,5 @@
+**This mod has moved to [duyguji-client-input](https://github.com/Sturmlilie/duyguji-client-input). Also check out the [umbrella repository](https://github.com/Sturmlilie/Duyguji) for all duyguji submodules.**
+
 # Duyguji
 
 The fabric mod for all your emoji needs 😂👌💯💦
